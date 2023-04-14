@@ -1,4 +1,4 @@
-# apl
+# apl - Applied Programing Lab - Navneet S Puvvada EE21B094
 The files contain the problem statement, test codes including netlists and the jupyter file with the solution code.
 Note that the code has been done in a limited timeframe and has scope for optimization and cleanup.
 Week2 : Made a Matrix equation solver(Gaussian Elimination) that can read netlists from LTspice and analyze them.
